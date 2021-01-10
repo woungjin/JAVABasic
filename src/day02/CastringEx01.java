@@ -24,7 +24,7 @@ public class CastringEx01 {
 		System.out.println(d);
 		
 		
-		
+		 
 	}
 
 }
