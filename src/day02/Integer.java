@@ -52,4 +52,4 @@ public class Integer {
 		
 		System.out.println(bool2);
 	}
-}
+} 
