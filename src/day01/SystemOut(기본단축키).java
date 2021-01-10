@@ -21,6 +21,6 @@ public class SystemOut {
 		
 		System.out.printf("안녕하세요 제이름은 %s이고 오늘 날짜는 %d월 %d일 입니다\n","길동홍",8,20);
 		System.out.printf("파이값 : %.2f입니다",3.14);
-		
+		 
 	}
 }
