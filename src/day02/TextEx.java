@@ -31,7 +31,7 @@ public class TextEx {
 		System.out.println("hello"+100+300);  
 		
 		System.out.println("A" + 100);
-		System.out.println('A' + 100);
+		System.out.println('A' + 100); 
 		
 		
 	}
