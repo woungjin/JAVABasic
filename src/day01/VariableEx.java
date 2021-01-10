@@ -9,8 +9,6 @@ public class VariableEx {
 				
 				- 생성 :  <타입> 이름;
 				
-				- 
-				
 		 */
 		
 		int num;
