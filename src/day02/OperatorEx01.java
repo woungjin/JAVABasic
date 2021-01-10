@@ -43,6 +43,6 @@ public class OperatorEx01 {
 		// ＊ 논리반전 연산자 : ! (반대 = 부정 ) 
 		System.out.println(!true);
 		System.out.println(!false);
-	} 
+	}  
 
 }
