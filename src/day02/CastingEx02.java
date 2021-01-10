@@ -28,6 +28,6 @@ public class CastingEx02 {
 		char cc = 'A';
 		short ss = (short)cc;
 		
-	}
+	} 
 
 }
