@@ -34,7 +34,7 @@ public class ArrayEx {
 		
 		// 7. 선언 + 생성
 		byte[] arr2 = new byte[10];
-		
+		 
 		// 8. 선언 + 생성 + 초기화
 		short[] arr3 = new short[] {1,2,3,4,5};
 		 
