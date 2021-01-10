@@ -30,6 +30,6 @@ public class CastingEx03 {
 		
 		short ss = (short) (s1+b4);
 		
-		
+		 
 	}
 }	
