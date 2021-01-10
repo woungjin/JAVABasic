@@ -6,7 +6,7 @@ public class IdentifierEx {
 
 		// 식별자 : 변수 , 메소드, 클래스등 이름을 구별하는것 
 		int age = 20;
-		int Age = 21;
+		int Age = 21; 
 		
 		System.out.println(age);
 		System.out.println(Age);
