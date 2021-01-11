@@ -32,7 +32,7 @@ public class ArrayDelete {
 		} else {
 			System.out.println(Arrays.toString(arr));
 		}
-		
+		 
 	}
 
 }
