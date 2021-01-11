@@ -32,7 +32,7 @@ public class RandomSet {
 			for(int i = 0; i < index; i++) {
 				if (arr[i] == seat) {
 					continue start;	
-				}
+				} 
 			}
 			arr[index]= seat;
 			index++;
