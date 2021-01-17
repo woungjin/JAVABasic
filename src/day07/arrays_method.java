@@ -30,6 +30,6 @@ public class arrays_method {
 		String[] week = {"월","화","수"} ;
 		
 		return week;
-		
+		 
 	}
 }
