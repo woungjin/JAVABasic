@@ -43,7 +43,7 @@ public class Method1 {
 		} else {
 			return "보";
 		}
-		
+		 
 	}
 
 }
