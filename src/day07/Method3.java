@@ -40,5 +40,5 @@ public class Method3 {
 			return ;
 		}
 		System.out.println("똑똑 합니다");
-	} 
+	}  
 }
