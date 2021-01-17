@@ -33,7 +33,7 @@ public class method2 {
 		for(int i = start; i<=end; i++ ) {
 			sum+=i;
 		}
-		return sum;
+		return sum; 
 	}
 	
 	static String calSum3(int start, int end, String s) {
