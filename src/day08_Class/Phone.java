@@ -28,7 +28,7 @@ public class Phone {
 		this.color = color;
 		this.price = price;
 		model = pmodel;
-
+ 
 	}
 
 	void info() {
