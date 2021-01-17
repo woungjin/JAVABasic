@@ -8,4 +8,4 @@ public class Calculator {
 		result += n;
 		return result;
 	}
-}
+} 
