@@ -25,4 +25,4 @@ public class Basic {
 	void input(char a, int b, double c) {
 		System.out.println("문자, 정수, 실수 1개 씩 입력됨");
 	}
-}
+} 
