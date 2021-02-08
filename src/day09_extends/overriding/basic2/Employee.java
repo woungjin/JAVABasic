@@ -9,3 +9,4 @@ public class Employee extends Person{
 		return "이름 : " + name + ", 나이 : " + age + ", 부서 : " + department;
 	}
 }
+ 
