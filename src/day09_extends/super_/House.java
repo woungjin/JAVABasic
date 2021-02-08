@@ -29,5 +29,5 @@ public class House extends Person {
 		this.persons = persons;
 	}
 	
-	
+	 
 }
