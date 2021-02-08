@@ -13,7 +13,7 @@ public class mainClass {
 		
 		c.method01();
 		c.method02(); // 오버라이딩된 메소드 실행 
-		
+		 
 		
 
 	}
