@@ -32,7 +32,7 @@ public class MainClass {
 		
 		Child cc = (Child)p;
 		cc.method1();
-		cc.method2();
+		cc.method2();  
 		cc.method3();
 	}
 }
