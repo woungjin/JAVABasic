@@ -24,7 +24,7 @@ public class Person {
 	String info() {
 		return "이름 : " + name + ", 나이 : " + age ;
 	}
-	
+	 
 	
 	
 	
