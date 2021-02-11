@@ -16,3 +16,4 @@ public class Employee extends Person{
 		return super.info() + ", 부서 : " + department;
 	}
 }
+ 
