@@ -22,7 +22,7 @@ public class House {
 	private Person[] persons;
 	private int count = 0;
 
-	public House() {
+	public House() { 
 		persons = new Person[300];
 	}
 
