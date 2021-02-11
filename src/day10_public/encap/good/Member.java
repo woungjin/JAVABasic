@@ -60,6 +60,6 @@ public class Member {
 	
 	// alt + shift + s
 	// 게터 , 세터 자동생성
-	
+	 
 	
 }
