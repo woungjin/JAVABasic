@@ -25,7 +25,7 @@ public class MyDate {
 		// 2. setter와 마찬가지로 접근제어자는 public선언하고 이름은 get + 변수명으로 지정
 		
 		public int getYear() {
-			return this.year;
+			return this.year; 
 		}
 		
 		public void setMonth(int month) {
