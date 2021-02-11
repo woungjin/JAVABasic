@@ -38,6 +38,6 @@ public class Main {
 		house.setIn(arr);
 		house.getPersons();
 
-	}
+	} 
 
 }
