@@ -15,6 +15,6 @@ public class MainClass {
 		
 		MainClass.x = 1;
 		
-	}
+	} 
 
 }
