@@ -30,7 +30,7 @@ public class Phone {
 		model = pmodel;
  
 	}
-
+ 
 	void info() {
 		System.out.println("----폰의 정보----");
 		System.out.println(model);
