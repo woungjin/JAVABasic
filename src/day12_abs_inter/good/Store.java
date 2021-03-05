@@ -29,6 +29,6 @@ public class Store extends HeadStore{
 	public void melon() {
 		System.out.println("멜론 10000");
 	}
-	
+	 
 	
 }
