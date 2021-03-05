@@ -30,5 +30,5 @@ public class Store2 extends HeadStore{
 		System.out.println("4");
 	}
 	
-	
+	 
 }
