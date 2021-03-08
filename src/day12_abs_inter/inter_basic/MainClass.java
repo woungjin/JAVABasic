@@ -23,7 +23,7 @@ public class MainClass {
 //		i1.method2();
 //		i1.method3();
 		
-		Inter2 i2 = b; 
+		Inter2 i2 = b;  
 //		i2.method1
 		i2.method2();
 //		i2.method3();
@@ -32,5 +32,5 @@ public class MainClass {
 		Basic bb = (Basic) b;
 		
 	}
-
+ 
 }
