@@ -20,3 +20,4 @@ public class Basic implements Inter1 , Inter2 {
 		System.out.println("Basic의 method3 호출");
 	}
 }
+  
