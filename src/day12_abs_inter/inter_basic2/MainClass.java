@@ -27,7 +27,7 @@ public class MainClass {
 		Ipet[] ipet = { baduk1, nabi1, nabi1,nabi1,fish};
 		for(Ipet i : ipet) {
 			i.Play();
-		}
+		} 
 		
 		System.out.println("---------------------");
 		PetShop ps = new PetShop();
@@ -35,5 +35,5 @@ public class MainClass {
 
 		
 	}
-
+ 
 }
