@@ -31,7 +31,7 @@ public class Account {
 
 	public static void main(String[] args) {
 
-		Account a = new Account();
+		Account a = new Account(); 
 		a.deposit(3000);
 		try {
 			a.widthDraw(4000);
