@@ -11,3 +11,4 @@ public class Child extends Parent{ // final class를 만들일은 없을것
 	 * //public void method2() { super.method2(); }
 	 */
 }
+ 
