@@ -7,3 +7,4 @@ public/* final */class Parent { // 클래스에 final이 붙으면 상속이 불
 	
 	
 }
+ 
