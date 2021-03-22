@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class StringEx {
 
 	public static void main(String[] args) {
-
+ 
 		// 1. String 		 			: 객체 상태로 만들어 저장할수 있다
 		// 2. .charAt(num) 				: 인덱스번호의 글자를 char형으로 반환한다 
 		// 3. .indexof(str)	 			: 문자열을 찾아서 인덱스 반환	but 반환값이 없다면 '-1'를 반환 
