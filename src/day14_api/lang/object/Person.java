@@ -44,14 +44,6 @@ public class Person implements Cloneable{
 		System.out.println(this.name +"님 소멸했습니다");
 	} 
 	
-	
-	
-	
-	
-	
-	
-	
-	
 //	
 	
 }
