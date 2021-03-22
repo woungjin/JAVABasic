@@ -38,7 +38,7 @@ public class StringBuildExx {
 		//toString()``뮤
 		if(sb.toString().equals("자바")) {
 			
-		}  {
+		}  { 
 			
 		}
 		
