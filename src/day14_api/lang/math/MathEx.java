@@ -19,6 +19,6 @@ public class MathEx {
 		int d4 = Math.abs(-10); // 절대값 
 		System.out.println(d4);
 		
-	}
+	} 
 
 }
