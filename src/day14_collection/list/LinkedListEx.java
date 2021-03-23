@@ -38,6 +38,6 @@ public class LinkedListEx {
 		System.out.println("2번째 인덱스에 있는 값 : " + list2.get(1)); // 값 얻기 
 		
 
-	}
+	} 
 
 }
