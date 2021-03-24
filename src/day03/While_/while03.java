@@ -20,3 +20,4 @@ public class while03 {
 			System.out.println("합 : " + sum);
 	}
 }
+ 
