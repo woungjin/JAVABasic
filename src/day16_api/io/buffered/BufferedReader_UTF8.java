@@ -31,7 +31,7 @@ public class BufferedReader_UTF8 {
 			while((str=bf.readLine()) != null ) {
 				System.out.println(str);
 			}
-			
+		 	
 			
 			
 		} catch (Exception e) {
