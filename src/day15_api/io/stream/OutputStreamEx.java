@@ -42,7 +42,7 @@ public class OutputStreamEx {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-		}
+		} 
 		
 	}
 
