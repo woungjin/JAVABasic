@@ -26,7 +26,7 @@ public class Buffer {
 		try {
 			// --- 폴더 생성 ---
 			file = new File("D:\\course2\\java\\file\\" + dateInfo ) ;
-			
+			 
 			
 			if(!file.exists()) {
 				file.mkdir();
