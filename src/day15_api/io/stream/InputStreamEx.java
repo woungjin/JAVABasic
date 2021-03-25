@@ -25,3 +25,4 @@ public class InputStreamEx {
 		}
 	} // main
 } // class
+ 
