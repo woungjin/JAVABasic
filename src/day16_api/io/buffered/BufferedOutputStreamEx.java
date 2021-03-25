@@ -46,7 +46,7 @@ public class BufferedOutputStreamEx {
 				bf.close();	// bj가 닫힐 때 자동으로 flush가 호출된다 
 			} catch (Exception e) {
 
-			}
+			} 
 		}
 	}
 }
