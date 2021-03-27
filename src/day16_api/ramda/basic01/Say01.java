@@ -6,3 +6,4 @@ public interface Say01 {
 	public void talking();
 
 }
+ 
