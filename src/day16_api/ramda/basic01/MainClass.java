@@ -46,6 +46,6 @@ public class MainClass {
 							// 그냥 .을 찍어서 무한정 람다표현식을 계속 쓸수가 있다
 			return "finish";
 		});
-
+ 
 	}
 }
