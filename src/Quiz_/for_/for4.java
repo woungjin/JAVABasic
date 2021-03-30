@@ -38,7 +38,5 @@ public class for4 {
 			arr2[i] = arr1[i];
 		}
 		System.out.println(Arrays.toString(arr2));
-
 	}
-
 }
