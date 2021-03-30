@@ -36,7 +36,7 @@ public class for2 {
 			}
 		}
 		System.out.println("9의 배수의 개수 : " + count);
-
+ 
 		
 		// 4. 50 ~ 100 까지 두수 사이의 합
 		
