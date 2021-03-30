@@ -23,11 +23,10 @@ public class for3 {
 		for(int i = n2 ; i<n1; i++) {
 			sum += i ;
 		}
-		
+		 
 		
 		//삼항연산식 사용
 //		for(int i = a == b ? 0 : (a > b ? b : a); i<= (a==b ? 0 : (a >b ? a : b )); i++) 
-		
 		
 		System.out.println("두 수 사이의 합 : "+ sum);
 		
