@@ -32,7 +32,7 @@ public class abc {
 					flag = true;
 				}
 			}
-			if (flag) {
+			if (flag) { 
 				lotto[count] = rd;
 				count++;
 				flag = false;
