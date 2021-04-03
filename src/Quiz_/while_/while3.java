@@ -31,7 +31,7 @@ public class while3 {
 			
 			if(i % 6 == 0) {
 				sum+=i;
-			}
+			} 
 			i++;
 		}
 		System.out.println("\n6의 배수의 합 : "+ sum);
