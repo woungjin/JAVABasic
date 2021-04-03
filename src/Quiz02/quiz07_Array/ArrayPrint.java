@@ -35,4 +35,4 @@ public class ArrayPrint {
 		System.out.println(a.printArr(arr2));
 
 	}
-}
+} 
