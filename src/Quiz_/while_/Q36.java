@@ -25,7 +25,7 @@ public class Q36 {
 			String menu = sc.next();
 			int a = Integer.parseInt(menu);
 			switch (a) {
-			case 1:
+			case 1: 
 				System.out.println("------고객 정보 입력------");
 				// 이름 , 성별 ,이메일 나이를 받아서 각 배열에 저장하고 사람수를 증가
 				System.out.print("이름 : ");
