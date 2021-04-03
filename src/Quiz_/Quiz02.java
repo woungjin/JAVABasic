@@ -11,3 +11,4 @@ public class Quiz02 {
 		System.out.println("랜덤수 : " + rn +"은 "+ str);
 	}
 }
+ 
