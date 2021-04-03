@@ -32,7 +32,7 @@ public class switch_3 {
 				} else {
 					sum = n2 / n1;
 				}
-				break;
+				break; 
 			default :
 				System.out.println("잘못 입력 하셧습니다");
 		}
