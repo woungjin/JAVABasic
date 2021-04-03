@@ -32,7 +32,7 @@ public class switch_4 {
 		case 6:
 			avg = "D";
 			break;
-		default:
+		default: 
 			if(point==100) {
 				avg="만점";
 				break;
