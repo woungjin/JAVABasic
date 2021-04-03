@@ -27,7 +27,7 @@ public class MyCart1 extends Cart {
          add(str);
          System.out.println("com을 구매합니다");
       } else if (str.equals("radio") && money >= 500) {
-         money -= radio;
+         money -= radio; 
          System.out.println("radio를 구매합니다");
          add(str);
       } else {
