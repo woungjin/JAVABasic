@@ -30,7 +30,7 @@ public class Computer {
 	public void computerInfo() {
 		this.keyboard.info();
 		this.monitor.info();
-		this.mouse.info();
+		this.mouse.info(); 
 		
 	} 
 
