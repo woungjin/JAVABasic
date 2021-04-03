@@ -32,7 +32,7 @@ public class Computer {
 		this.monitor.info();
 		this.mouse.info();
 		
-	}
+	} 
 
 	public KeyBoard getKeyboard() {
 		return keyboard;
