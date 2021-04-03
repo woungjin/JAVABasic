@@ -26,7 +26,7 @@ public class Car {
 		그렇지 않으면 멤버변수를 매개변수로 변경하세요
 		*/
 
-	}
+	} 
 	
 	void run() {
 		for(int i = 0; i<200 ; i+=30) {
