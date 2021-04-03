@@ -33,7 +33,7 @@ public class MainClass {
 		
 		for(User user : u3) {
 			System.out.println(user.getAge());
-			System.out.println(user.getName());
+			System.out.println(user.getName()); 
 			System.out.println(user.getRrn());
 			System.out.println("");
 		}
