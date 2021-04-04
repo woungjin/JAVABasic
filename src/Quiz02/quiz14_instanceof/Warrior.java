@@ -32,6 +32,6 @@ public class Warrior extends Player {
 		System.out.println("캐릭명 : " + this.name);
 		System.out.println("체력 : " + this.hp);
 		System.out.println("마나 : " + this.mp);
-	}
+	} 
 	
 }
