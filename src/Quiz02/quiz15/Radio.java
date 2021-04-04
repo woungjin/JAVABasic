@@ -6,3 +6,4 @@ public class Radio extends Product{
 		super(price, name);
 	}
 }
+ 
