@@ -7,3 +7,4 @@ public class Mouse {
 		System.out.println("from 미키마우스");
 	}
 }
+ 
