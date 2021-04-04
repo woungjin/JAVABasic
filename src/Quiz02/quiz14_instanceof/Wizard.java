@@ -26,7 +26,7 @@ public class Wizard extends Player {
 				p.hp -= rn;
 				System.out.println(p.name + "님이 " + rn + "피해를 입었습니다");
 			}
-
+ 
 		}
 	}
 
