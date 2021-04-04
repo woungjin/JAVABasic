@@ -25,7 +25,7 @@ public class MyCart {
 				this.money -=p.price;
 				add(p);
 			} else if (p instanceof Radio && this.money >= p.price) {
-				this.money -=p.price;
+				this.money -=p.price; 
 				add(p);
 			} else if (p instanceof Computer && this.money >= p.price) {
 				this.money -=p.price;
