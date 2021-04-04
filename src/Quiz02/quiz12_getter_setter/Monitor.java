@@ -7,3 +7,4 @@ public class Monitor {
 		System.out.println("from LG");
 	}
 }
+ 
