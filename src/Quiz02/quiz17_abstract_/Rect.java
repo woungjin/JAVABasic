@@ -13,3 +13,4 @@ public class Rect extends Shape{
 		return side*side;
 	}
 }
+ 
