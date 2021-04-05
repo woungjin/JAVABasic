@@ -26,7 +26,7 @@ public class Marine extends Unit{
 	}
 
 	public void stop() {
-		super.stop();
+		super.stop(); 
 	}
 
 
