@@ -30,7 +30,7 @@ public class MainClass {
 		ds.location();
 		mar1.location();
 		mar2.location();
-		
+		 
 	}
 
 }
