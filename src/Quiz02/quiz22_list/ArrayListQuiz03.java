@@ -29,7 +29,7 @@ public class ArrayListQuiz03 {
 		
 				}
 
-			} else if (menu == 3) {
+			} else if (menu == 3) { 
 				System.out.print("찾을 이름 입력 : ");
 				String seacher1 = sc.next();
 				boolean flag = false;
