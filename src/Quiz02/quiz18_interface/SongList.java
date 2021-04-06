@@ -7,3 +7,4 @@ public interface SongList {
 	public void playList();
 	public int playLength();
 }
+ 
