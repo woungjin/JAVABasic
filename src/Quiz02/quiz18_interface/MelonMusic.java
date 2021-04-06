@@ -28,7 +28,7 @@ public class MelonMusic implements SongList {
 		return count;
 	}
 	
-	/*
+	/* 
 	 * SongList인터페이스를 상속받아서 기능을 구현합니다.
 	 * insertList() 는 list배열에 순서대로 저장
 	 * playList() list의 음악을 랜덤하게 출력
