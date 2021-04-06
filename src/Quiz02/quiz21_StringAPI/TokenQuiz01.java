@@ -21,7 +21,7 @@ public class TokenQuiz01 {
 		System.out.println("토큰 개수 " + token1.countTokens());
 		String[] arr = new String[token1.countTokens()];
 		int count = 0;
-
+ 
 		try {
 
 			while (token1.hasMoreTokens()) {
