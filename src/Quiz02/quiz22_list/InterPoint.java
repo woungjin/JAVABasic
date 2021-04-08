@@ -23,3 +23,4 @@ public interface InterPoint {
 		System.out.println("*********************");
 	}
 }
+  
