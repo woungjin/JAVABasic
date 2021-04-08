@@ -31,7 +31,7 @@ public class Student {
 		System.out.print("학번 : ");
 		this.stuId = sc.next();
 		
-		System.out.print("이름 : ");
+		System.out.print("이름 : "); 
 		this.name = sc.next();
 
 		while (true) {
