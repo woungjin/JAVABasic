@@ -30,7 +30,7 @@ public class StudentMain {
 				break;
 			} else {
 				System.out.println("다시");
-			}
+			} 
 
 		}
 
