@@ -14,7 +14,7 @@ public class MapQuiz01 {
 		map.put("park4321", "ppp4321");
 		
 		Scanner sc = new Scanner(System.in);
-		
+		 
 
 		while(true) {
 			System.out.println("id 입력 : " ) ;
@@ -23,7 +23,7 @@ public class MapQuiz01 {
 			System.out.println("pw 입력 : " ) ;
 			String pw = sc.next();
 
-			if(map.containsKey(id)) {
+			if(map.containsKey(id)) { 
 				String value = map.get(id); 
 				if(value.equals(pw)) {
 					System.out.println("로그인성공!");
