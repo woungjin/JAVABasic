@@ -27,7 +27,7 @@ public class MapQuiz02 {
 				String name = sc.next();
 				if (map.containsKey(name)) {
 					System.out.println("이미 등록된 메뉴가 있습니다 다시입력하세요 ");
-					continue;
+					continue; 
 				} else {
 					System.out.println("메뉴 가격 입력 : ");
 					int value = sc.nextInt();
