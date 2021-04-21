@@ -15,7 +15,7 @@ public class StreamQuiz01 {
 		  			파일명이 없으면 "파일이 없습니다" 예외문구를 출력
 		  		3. 복사도중 에러가 발생하면 , " 파일 처리중 예외 발생 
 		
-		 */
+		 */ 
 		
 		FileInputStream oldFile = null;
 		FileOutputStream newFile = null;
@@ -55,7 +55,7 @@ public class StreamQuiz01 {
 		}
 		
 		
-
+ 
 	}
 
 }
